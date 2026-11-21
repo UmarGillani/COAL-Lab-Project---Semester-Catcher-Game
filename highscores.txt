@@ -1,0 +1,12 @@
+RK NAME               SCORE LEVEL 
+01 Roshaan             2460 Hard  
+02 selmon bhai         1080 Medium
+03 Qadir               1000 Medium
+04 Umar                 480 Hard  
+05 Roshaan              400 Easy  
+06 umar                 350 Easy  
+07 Qadir                220 Medium
+08 umar                 160 Easy  
+09 Qadir                120 Medium
+10 Qadir                100 Medium
+11 Qadir                 40 Medium
